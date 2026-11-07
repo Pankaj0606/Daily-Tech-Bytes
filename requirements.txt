@@ -1,0 +1,4 @@
+gspread
+groq
+python-dotenv
+requests
